@@ -4,7 +4,7 @@ This test framework goes into https://www.twitch.tv/ searches for StarCraft II, 
 * clone repository
 * cd into cloned repository
 * .\venv\Scripts\activate
-* pip3 install -r requirements.txt
+* pip install -r requirements.txt
 * pytest
 
 ## Structure
